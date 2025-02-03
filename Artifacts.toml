@@ -1,0 +1,14 @@
+[[Reactant]]
+arch = "aarch64"
+cuda_version = "12.4"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "30e8668c70f454e6df8cdfd5baf7ff3e1ee14aab"
+gpu = "cuda"
+lazy = true
+libc = "glibc"
+mode = "opt"
+os = "linux"
+
+    [[Reactant.download]]
+    sha256 = "325f0c1375cdb78c69384f6e311ea087f110bb95d49d6c5925ac3d4123598ac2"
+    url = "https://github.com/giordano/Reactant_jll.jl/releases/download/Reactant-v0.0.61+0/Reactant.v0.0.61.aarch64-linux-gnu-cxx11-cuda_version+12.4-gpu+cuda-mode+opt.tar.gz"
