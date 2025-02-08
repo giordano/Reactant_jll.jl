@@ -25,4 +25,4 @@ os = "linux"
 
     [[Reactant.download]]
     sha256 = "1bedab83f4225cc6ed7cf66f9cd4d2d9c586add7eb21a776e715d192e5fe0bd4"
-    url = "https://github.com/giordano/Reactant_jll.jl/releases/download/Reactant-v0.0.64+0/Reactant.v0.0.64.aarch64-linux-gnu-cxx11-cuda_version+none-gpu+none-mode+dbg.tar.gz"
+    url = "https://github.com/giordano/Reactant_jll.jl/releases/download/Reactant-v0.0.64+1/Reactant.v0.0.64.aarch64-linux-gnu-cxx11-cuda_version+none-gpu+none-mode+dbg.tar.gz"
