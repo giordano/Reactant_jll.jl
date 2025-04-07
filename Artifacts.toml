@@ -1,12 +1,12 @@
 [[Reactant]]
 arch = "aarch64"
 cuda_version = "none"
-git-tree-sha1 = "de820712f9ec59b8207b346b0000359599c94312"
+git-tree-sha1 = "df5bb015e96e5ea33a8252e4e0ef43704479b9b5"
 gpu = "none"
 lazy = true
 mode = "opt"
 os = "macos"
 
     [[Reactant.download]]
-    sha256 = "3c3ee52d98aafbcbf6d1b068fbee084fdd24e6020ca65a4d2dc4c607a492a40c"
-    url = "https://github.com/giordano/Reactant_jll.jl/releases/download/Reactant-v0.0.97+0/Reactant.v0.0.97.aarch64-apple-darwin-cuda_version+none-gpu+none-mode+opt.tar.gz"
+    sha256 = "3f82ee41f859949933ee3575f45ae9f6e59f8d364cf1c40d7ddbc3b40e274f69"
+    url = "https://github.com/giordano/Reactant_jll.jl/releases/download/Reactant-v0.0.130+0/Reactant.v0.0.130.aarch64-apple-darwin-cuda_version+none-gpu+none-mode+opt.tar.gz"

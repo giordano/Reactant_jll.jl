@@ -2,7 +2,7 @@
 export libReactantExtra
 
 JLLWrappers.@generate_wrapper_header("Reactant")
-JLLWrappers.@declare_library_product(libReactantExtra, "bazel-out/darwin_arm64-opt/bin/libReactantExtra.so")
+JLLWrappers.@declare_library_product(libReactantExtra, "@rpath/libReactantExtra.so")
 function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(

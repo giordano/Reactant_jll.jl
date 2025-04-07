@@ -1,6 +1,6 @@
 name = "Reactant_jll"
 uuid = "0192cb87-2b54-54ad-80e0-3be72ad8a3c0"
-version = "0.0.97+0"
+version = "0.0.130+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
